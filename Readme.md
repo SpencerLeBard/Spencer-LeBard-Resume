@@ -1,5 +1,7 @@
 Software developer with experience in both font-end and back-end programming. Experienced in Vue.js, C#, SQL, and Node.js . Lived in China and taught gifted students’ math and science. Scrum enthusiast. I am able to learn things rapidly and adapt quickly to change. I have had success in learning new technologies, concepts and development techniques during the application build process. Passionate about creating clean, modern software applications to fulfill business needs.
 
+![enter image description here](https://files.slack.com/files-pri/T1GGQN1RU-F01D9G9G8QP/icons.png)
+
 ![enter image description here](https://raw.githubusercontent.com/SpencerLeBard/Spencer-LeBard-s-Resume/master/Assets/resumepng.PNG)
 
 <div>
