@@ -4,6 +4,8 @@ Software developer with experience in both font-end and back-end programming. Ex
 
 ![enter image description here](https://raw.githubusercontent.com/SpencerLeBard/Spencer-LeBard-s-Resume/master/Assets/resumepng.PNG)
 
+https://www.linkedin.com/in/spencerlebard/
+
 <div>
   <a href="/" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerLeBard&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
