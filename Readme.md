@@ -1,4 +1,4 @@
-Software developer with experience in both font-end and back-end programming. Experienced in Vue.js, C#, SQL, and Node.js. Lived in China and taught gifted students’ math and science. Scrum enthusiast. I am able to learn things rapidly and adapt quickly to change. I have had success in learning new technologies, concepts and development techniques during the application build process. Passionate about creating clean, modern software applications to fulfill business needs.
+Software developer with experience in both font-end and back-end programming. Experienced in Vue.js, C#, SQL, and Node.js. Lived in China and taught gifted students’ math and science. Scrum enthusiast. I am able to learn things rapidly and adapt quickly to change. I have had success in learning new technologies, concepts, and development techniques during the application build process. Passionate about creating clean, modern software applications to fulfill business needs.
 
 https://www.linkedin.com/in/spencerlebard/
 
